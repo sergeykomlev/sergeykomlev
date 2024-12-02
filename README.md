@@ -1,4 +1,4 @@
-[<img width="2206" alt="sergeykomlev" src="https://github.com/user-attachments/assets/97cde007-06d0-40ca-8003-a12ef5f20357">](https://sergeykomlev.com)
+[<img width="2206" alt="sergeykomlev" src="https://github.com/user-attachments/assets/16e03a44-e68b-4a1e-8434-d4b6e563f03f">](https://sergeykomlev.com)
 
 # About Me
 
