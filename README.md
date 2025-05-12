@@ -4,5 +4,5 @@ International expert in web development, digital marketing and e-commerce. More 
 
 _____
 
-- Have a question? [Chat with me](https://sergeykomlev.com/#chatraChatExpanded)
+- Have a question? [Chat with me](https://komlev.pro/#chatraChatExpanded)
 - [TikTok REST API](https://evelode.com/downloads/tiktok-rest-api/). Easy to use API for your projects
